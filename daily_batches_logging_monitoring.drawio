@@ -133,6 +133,11 @@
         <mxCell id="nKVs6_15rnYLYa3qSQOT-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nKVs6_15rnYLYa3qSQOT-6" target="nKVs6_15rnYLYa3qSQOT-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="nKVs6_15rnYLYa3qSQOT-65" value="Pipeline Logs &amp;amp; Metrics" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nKVs6_15rnYLYa3qSQOT-39">
+          <mxGeometry x="-0.4952" y="-3" relative="1" as="geometry">
+            <mxPoint x="-7" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="nKVs6_15rnYLYa3qSQOT-40" value="" style="fillColor=#ffffff;strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="1">
           <mxGeometry x="387" y="667" width="150" height="60" as="geometry" />
         </mxCell>
