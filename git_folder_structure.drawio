@@ -397,7 +397,7 @@
         <mxCell id="a7yxjz0I2HXghqxPFArf-181" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
           <mxGeometry x="121" y="1445" width="38" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="a7yxjz0I2HXghqxPFArf-182" value="DNC/NDNC/" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="a7yxjz0I2HXghqxPFArf-182" value="DNC_NDNC/" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="153" y="1434" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
